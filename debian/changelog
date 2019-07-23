@@ -1,3 +1,9 @@
+freetype-py (2.1.0-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Mikael Schönenberg <freetype-py@schonenberg.org>  Tue, 23 Jul 2019 16:25:48 +0200
+
 freetype-py (0.4.1-1) unstable; urgency=low
 
   * source package automatically created by stdeb 0.8.2

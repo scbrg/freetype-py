@@ -1,3 +1,9 @@
+freetype-py (2.1.0-2) unstable; urgency=medium
+
+  * Explicitly include debhelper addon python3 in build process.
+
+ -- Mikael Schonenberg <freetype-py@schonenberg.org>  Wed, 24 Jul 2019 10:21:40 +0200
+
 freetype-py (2.1.0-1) unstable; urgency=medium
 
   * New upstream version.
